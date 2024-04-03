@@ -1,0 +1,14 @@
+{
+   "Name": "Fish with Willy",
+   "Author": "Katja, AnimatedRice",
+   "Version": "1.0.0",
+   "MinimumApiVersion": "4.0.0",
+   "Description": "Did you ever dream of fishing with Willy on the ocean? Well now you can during the evening. Just ask Willy!",
+   "UniqueID": "AnimatedRice.FishwithWilly",
+   "UpdateKeys": [
+      "GitHub:AnimatedRice/FishWithWilly"
+    ],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+   }
+}
