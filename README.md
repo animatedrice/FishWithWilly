@@ -7,4 +7,9 @@ Have you ever dreamed of fishing with Willy on the ocean? Well now you can durin
 
 - Made by Katja & Ellie 🎣
 
+### Requirements
+All mods have the same requirements:
+* SMAPI (4.0 or up)
+* Content Patcher
+
 [Download](https://github.com/animatedrice/FishWithWilly/releases)
